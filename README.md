@@ -1,7 +1,7 @@
 ## Tabla de contenido
 - [HTML & CSS](#HTML&CSS)
-    - [Curso de Desarrollo Web Online](#Curso_desarrollo_web)
-    - [Curso Práctico de HTML y CSS](#Curso_practico)
+    - [Curso de Desarrollo Web Online](#Curso-de-Desarrollo-Web-Online)
+    - [Curso Práctico de HTML y CSS](#Curso-Práctico-de-HTML-y-CSS)
     - [Curso de Responsive Design](#Curso_responsive)
     - [Curso de Frontend Developer](#Curso_frontend_dev)
     - [Curso de CSS Grid Layout](#Curso_CSS_grid)
