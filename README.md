@@ -1,5 +1,5 @@
 ## Tabla de contenido
-- [HTML & CSS](#HTML&CSS)
+- [HTML & CSS](#html--css)
     - [Curso Práctico de HTML y CSS](#Curso_practico)
     - [Curso de Responsive Design](#Curso_responsive)
     - [Curso de CSS Grid Layout](#Curso_CSS_grid)
