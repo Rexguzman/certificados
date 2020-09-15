@@ -27,7 +27,7 @@
 
 `Contenido`: 
 
-<a href="https://platzi.com/@RexGuzman1/curso/1350-html5-css3/diploma/detalle/" target="_blank"><img src="https://pbs.twimg.com/card_img/1305709909435125760/IPm4Gg-H?format=png&name=small" width="300px"/></a>
+<a href="https://platzi.com/@RexGuzman1/curso/1350-html5-css3/diploma/detalle/" target="_blank" rel="noopener"><img src="https://pbs.twimg.com/card_img/1305709909435125760/IPm4Gg-H?format=png&name=small" width="300px"/></a>
 
 ## <img src="https://static.platzi.com/media/achievements/badge-practico-html-css-1-106665ee-bf4f-4301-8991-1fab9e54a73e.png" width="40px"/> Curso Práctico de HTML y CSS
 
