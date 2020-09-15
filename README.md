@@ -23,7 +23,7 @@
 
 # HTML & CSS
 
-## Curso de Desarrollo Web Online
+## <img src="https://static.platzi.com/media/achievements/1350-09ddb033-354b-4c0c-84a4-56cbb71d0b08.png" alt="javascript-expert" width="50px"/> Curso de Desarrollo Web Online
 
 ## Curso Práctico de HTML y CSS
 
