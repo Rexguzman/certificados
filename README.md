@@ -31,11 +31,27 @@
 
 ## <img src="https://static.platzi.com/media/achievements/badge-practico-html-css-1-106665ee-bf4f-4301-8991-1fab9e54a73e.png" width="40px"/> Curso Práctico de HTML y CSS
 
+`Contenido`: 
+
+<a href="https://platzi.com/@RexGuzman1/curso/1758-html-practico/diploma/detalle/"><img src="https://pbs.twimg.com/card_img/1305872409958940677/LUA4orjH?format=png&name=small" width="300px"/></a>
+
 ## <img src="https://static.platzi.com/media/achievements/1362-87c8ad3d-a50d-41a2-b023-ad838594e1c9.png" width="40px"/> Curso de Responsive Design
+
+`Contenido`: 
+
+<a href="https://platzi.com/@RexGuzman1/curso/1362-responsive-design/diploma/detalle/"><img src="https://pbs.twimg.com/card_img/1305886307542016000/dBpsC3Kj?format=png&name=small" width="300px"/></a>
 
 ## <img src="https://static.platzi.com/media/achievements/badge-frontend-developer-8a49e681-3e22-408d-b886-2f47dfc9953a.png" width="40px"/> Curso de Frontend Developer
 
+`Contenido`: 
+
+<a href="https://platzi.com/@RexGuzman1/curso/1640-frontend-developer/diploma/detalle/"><img src="https://pbs.twimg.com/card_img/1305886593522323457/020mbICC?format=png&name=small" width="300px"/></a>
+
 ## <img src="https://static.platzi.com/media/achievements/1229-dbff8a06-bcca-48e9-98e3-1fd76d6216f3.png" width="40px"/> Curso de CSS Grid Layout
+
+`Contenido`: 
+
+<a href="https://platzi.com/@RexGuzman1/curso/1229-css-grid-layout/diploma/detalle/"><img src="https://pbs.twimg.com/card_img/1305886969906573313/aDoX1Q-v?format=png&name=small" width="300px"/></a>
 
 # JavaScript
 
